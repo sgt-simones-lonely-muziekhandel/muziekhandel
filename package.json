@@ -1,0 +1,21 @@
+{
+  "name": "muziekhandel",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Virtual 1906 Dutch music shop built on SOM sheet music and linked open data — HackaLOD 2026",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^4.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vite": "^8.3.3"
+  }
+}
