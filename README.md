@@ -2,6 +2,8 @@
 
 *Muziekhandel Van der Velde* — a walkable Dutch music shop from 1906, built on SOM sheet music and linked open data. Made for HackaLOD 2026.
 
+**▶ Play it: https://sgt-simones-lonely-muziekhandel.github.io/muziekhandel/** (rebuilt automatically on every push to `main`)
+
 You walk in from the canal, browse the sheet-music cabinet, open a piece and turn its title page to see the notes. From there you follow the people on it (composer, lyricist, performers) to their portraits, follow threads to the people they're connected to, and find their other works. Then you play the piece on the piano or the gramophone.
 
 The whole interface is a 2D game built with **[Phaser 4](https://phaser.io)**: scenes, sprites, tweens, particles, camera and Web Audio. There are no DOM UI widgets.
